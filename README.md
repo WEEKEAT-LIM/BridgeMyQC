@@ -1,7 +1,7 @@
 # BridgeMyQC
 This is an interactive, open-source codebook designed specifically for high school students, self-taught developers, and absolute beginners. If you understand basic high school math, you already have everything you need to start.
 
-This project aimed to bridge the gap between high school knowledge and quantum computing knowledge using a practical, three-step learning loop for every concept: `Theory -> Math Example -> Experiment(Code)`. After the concept is making sense in your brain, you are encouraged to try to create your own example workout in a pice of paper first, then change the numbers in the code block or even write you own, to validate your understanding.
+This project aimed to bridge the gap between high school knowledge and quantum computing knowledge using a practical, three-step learning loop for every math concept: `Theory -> Math Example -> Experiment(Code)`. After the concept is making sense in your brain, you are encouraged to try to create your own example workout in a pice of paper first, then change the numbers in the code block or even write you own, to validate your understanding.
 
 Whether you are exploring a future university major, looking at a career in Quantum Computing, or just want to understand what makes a quantum computer tick, BridgeMyQC can be your starting line. [How to setup?](./setup.md)
 
